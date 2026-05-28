@@ -1,3 +1,3 @@
 # Governance Workflows Package
 
-Workflows de aprovação e governança com abordagem human-in-the-loop.
+Approval and governance workflows with a human-in-the-loop approach.

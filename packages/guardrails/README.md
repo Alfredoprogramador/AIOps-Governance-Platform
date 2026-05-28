@@ -1,3 +1,3 @@
 # Guardrails Package
 
-Regras de segurança e compliance para prompts e respostas (PII/toxicidade/políticas).
+Security and compliance rules for prompts and responses (PII/toxicity/policies).

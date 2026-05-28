@@ -1,3 +1,3 @@
 # Monitoring Package
 
-Camada de métricas, drift detection e monitoramento contínuo.
+Metrics layer, drift detection, and continuous monitoring.

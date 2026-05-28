@@ -1,7 +1,7 @@
 # Risk Matrix
 
-| Nível | Critérios | Aprovação | Controles mínimos |
+| Level | Criteria | Approval | Minimum controls |
 |---|---|---|---|
-| Baixo | Impacto limitado, sem dados sensíveis | Product Owner | Monitoramento básico |
-| Médio | Impacto operacional relevante ou uso de dados pessoais | PO + Compliance | Guardrails + auditoria |
-| Alto | Impacto regulatório/financeiro elevado | Comitê de Risco | Guardrails avançados + trilha imutável |
+| Low | Limited impact, no sensitive data | Product Owner | Basic monitoring |
+| Medium | Relevant operational impact or personal data usage | PO + Compliance | Guardrails + audit trail |
+| High | High regulatory/financial impact | Risk Committee | Advanced guardrails + immutable audit trail |
