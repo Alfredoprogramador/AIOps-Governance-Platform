@@ -4,16 +4,16 @@
   "private": true,
   "description": "Complete framework for governance, monitoring, and operation of AI models",
   "workspaces": [
-    "apps/*",
     "packages/*"
   ],
   "scripts": {
-    "build": "echo 'Build orchestrated by turbo when apps/packages are implemented'",
-    "lint": "echo 'Lint will be enabled per app/package as implementation evolves'",
-    "test": "echo 'No test suites configured yet'",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
     "check:structure": "node scripts/check-structure.mjs"
   },
   "devDependencies": {
     "turbo": "^2.0.14"
-  }
+  },
+  "packageManager": "npm@10.8.2"
 }

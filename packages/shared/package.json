@@ -1,0 +1,16 @@
+{
+  "name": "shared",
+  "version": "0.1.0",
+  "description": "AIOps Governance Platform package",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step configured yet'",
+    "lint": "echo 'No lint step configured yet'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true
+}

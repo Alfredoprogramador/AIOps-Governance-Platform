@@ -42,5 +42,6 @@ aiops-governance-platform/
 
 ## Como começar
 1. Instale dependências do workspace: `npm install`
-2. Estruture cada app/package conforme a fase de entrega.
-3. Consulte as políticas em `docs/governance-policies.md` e a matriz em `docs/risk-matrix.md`.
+2. Crie variáveis locais: `cp .env.example .env` e ajuste `POSTGRES_PASSWORD`.
+3. Estruture cada app/package conforme a fase de entrega.
+4. Consulte as políticas em `docs/governance-policies.md` e a matriz em `docs/risk-matrix.md`.
