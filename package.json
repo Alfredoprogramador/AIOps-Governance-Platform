@@ -1,0 +1,19 @@
+{
+  "name": "aiops-governance-platform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Complete framework for governance, monitoring, and operation of AI models",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "check:structure": "node scripts/check-structure.mjs"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.14"
+  },
+  "packageManager": "npm@10.8.2"
+}
