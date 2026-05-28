@@ -1,0 +1,19 @@
+{
+  "name": "aiops-governance-platform",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Framework Completo para Governança, Monitoramento e Operação de Modelos de IA",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "echo 'Build orchestrated by turbo when apps/packages are implemented'",
+    "lint": "echo 'Lint will be enabled per app/package as implementation evolves'",
+    "test": "echo 'No test suites configured yet'",
+    "check:structure": "node scripts/check-structure.mjs"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.14"
+  }
+}
