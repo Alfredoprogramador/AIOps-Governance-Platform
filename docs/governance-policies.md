@@ -1,14 +1,14 @@
 # Governance Policies
 
 ## Policy as Code
-- Todo modelo em produção deve possuir owner, versão e trilha de auditoria.
-- Mudanças em modelos de risco médio/alto exigem aprovação humana (Human-in-the-Loop).
-- Guardrails obrigatórios para PII, toxicidade e compliance regulatório.
+- Every production model must include owner, version, and an auditable trail.
+- Changes for medium/high-risk models require human approval (Human-in-the-Loop).
+- Guardrails are mandatory for PII, toxicity, and regulatory compliance.
 
 ## Continuous Monitoring
-- Monitorar acurácia, latência, custo por inferência e sinais de drift.
-- Alertas operacionais e de compliance devem ser rastreáveis.
+- Monitor accuracy, latency, cost per inference, and drift signals continuously.
+- Operational and compliance alerts must be traceable.
 
-## Compliance Base
-- AI Act: classificação de risco, transparência e supervisão humana.
-- LGPD: minimização de dados, rastreabilidade e proteção de PII.
+## Compliance Baseline
+- AI Act: risk classification, transparency, and human oversight.
+- LGPD: data minimization, traceability, and PII protection.

@@ -4,7 +4,7 @@ services:
     environment:
       POSTGRES_DB: aiops
       POSTGRES_USER: aiops
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-aiops}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - "5432:5432"
 

@@ -1,8 +1,8 @@
 # Frontend App
 
-Stack alvo: Next.js 15 + TypeScript + Tailwind + shadcn/ui + Recharts + React Flow.
+Target stack: Next.js 15 + TypeScript + Tailwind + shadcn/ui + Recharts + React Flow.
 
-Responsabilidades:
-- Dashboards de performance, drift, custo e ROI
-- Fluxos de aprovação e governança
-- Visão de auditoria e explainability
+Responsibilities:
+- Performance, drift, cost, and ROI dashboards
+- Approval and governance workflows
+- Auditability and explainability views
