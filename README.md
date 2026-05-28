@@ -29,9 +29,9 @@ aiops-governance-platform/
 ```
 
 ## Fases
-- **Fase 1 (MVP - 8 semanas)**: registro/versionamento, deploy Kubernetes, dashboard básico, custo por modelo, guardrails e alertas básicos.
-- **Fase 2 (12 semanas)**: drift detection, RAG avançado, aprovação multi-estágio, explainability, tracing completo e A/B testing.
-- **Fase 3 (12 semanas)**: multi-tenancy, risk scoring, compliance reports, otimização automática, auditoria imutável e self-service.
+- **Phase 1 (MVP - 8 weeks)**: model registration/versioning, Kubernetes deployment, basic dashboard, cost per model, basic guardrails, and basic alerts.
+- **Phase 2 (12 weeks)**: automatic drift detection, advanced RAG evaluation, multi-stage approval, explainability dashboard, full tracing, and A/B testing.
+- **Phase 3 (12 weeks)**: multi-tenancy, automated risk scoring, compliance reports, prompt/cost optimization, immutable audit trail, and self-service portal.
 
 ## Stack de Referência
 - Frontend: Next.js 15 + TypeScript + Tailwind + shadcn/ui + Recharts + React Flow
